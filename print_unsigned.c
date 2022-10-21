@@ -2,10 +2,10 @@
 
 /**
 * print_unsigned - Print a unsigned int
-* @n: Number to print
+*@list : Number to print
 * Return: Length of the number
 **/
-int print_unsigned(va_list list)
+int irint_unsigned(va_list list)
 {
 char *p_buff;
 int size;
