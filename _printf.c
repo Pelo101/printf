@@ -17,7 +17,7 @@ int _printf(const char *format, ...)
 	}
 	size = _strlen(format);
 	if (size <= 0)
-	
+
 	{
 		return (0);
 	}
